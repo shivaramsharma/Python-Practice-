@@ -1,0 +1,55 @@
+Automation enthusiast with extensive experience in
+1. UI Automation - Robot Framework | Selenium | Java | Python | Cucumber | BDD 
+2. API Automation 
+3. Middleware Automation
+4. Backend Automation - JDBC, Winscp, Shell Script
+5. Cloud Automation - Azure
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+n Automation SDET Architect, experienced in Automation, Functional/Non Functional (Security & Performance Testing), DataBase, Backend API, Mobile Testing & DevOps.
+
+- Ability to Manage Multiple Automation Projects on Multiple Automation Tools, Manage the Complete Automation phases from Initiating, Planning, Executing, Controlling, and Reporting.
+
+- Ability to Establish and Manage Testing Centre of Excellence (TCoE) - QA Community and create innovative efficient Testing solutions, Automation Solutions and Automation Frameworks to Accelerate delivery.
+
+- Collaborate with Management to strategize & align long term solutions for automation including roadmap, tools, framework & approach.
+
+Programming Skills: 
+Strong hold on Data Structure & Algorithm, Java, Python, JavaScript, TypeScript, SQL, Shell Script
+
+Automation Framework & DevOps Skills: 
+Big Fan of Gangs of Four - Design Patterns
+Data Driven, Key Word, Hybrid, Page Object Model, Selenium WebDriver/GRID, Playwright-Typescript, WebdriverIO, TDD (JUNIT/TestNg), BDD (Cucumber-JVM, JBehave), Serenity, SVN/GIT, MAVEN/ANT, Jenkins, SauceLabs, BrowserStack, Docker, AWS
+
+JavaScript Tools: PlaywrightJS/TS, Grunt, Mocha, Cypress, Taiko, Gauge, WebDriverIO
+
+AI Tools: AppliTools, Testim.io, n8n, MCP, AI Agents
+
+Mobile Test Automation:
+iOS & Android devices: Native/Hybrid/Browser apps testing using Appium, BrowserMobProxy, Charles Proxy
+
+API (Backend) WebServices Automation: 
+SOAP, REST, HttpClient, Gson, SimpleJson, Jackson, Jersey Client, REST Assured, SOAP UI, JSON, XML, JMETER, Swagger, Marshelling, Un-Marshelling, Mockito, WireMock, POSTMAN, NEWMAN, CURL
+
+Performance Testing: Jmeter, LoadRunner, GATLING
+Performance Monitoring/Alert: Grafana, Medusa, GrayLog, Kibana, PagerDuty
+
+Dev Ops: Maven, Jenkins, Bamboo, Docker, Arquillian Cube, Zalenium, Selenoid
+
+Code Coverage: JaCoCo, Cobertura, SonarQube
+
+Project/Test management Tools: JIRA, Rally, HP-QC/ALM, Test Rail, Agile
+
+DB: Oracle, Sql Server, MySql, Cassandra, Solr, DataStax
+
+Cloud Technologies:
+VmWare, hypervisor, SalesForce, AWS
